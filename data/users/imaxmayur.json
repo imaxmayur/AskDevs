@@ -1,0 +1,14 @@
+{
+  "name": "<Mayur Gosavi>",
+  "bio": "Frontend Developer ",
+  "image": "https://avatars.githubusercontent.com/u/110410744?v=4",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "contacts": {
+    "twitter": "Mayur_twits"
+  }
+}
